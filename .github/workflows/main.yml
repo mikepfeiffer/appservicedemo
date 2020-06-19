@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  AZURE_WEBAPP_NAME: csweb061920202
+  AZURE_WEBAPP_NAME: csweb0619202
   AZURE_WEBAPP_PATH: '.'
   DOTNET_VERSION: '2.2.101'
 
